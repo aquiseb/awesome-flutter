@@ -25,13 +25,15 @@ A selection of flutter tutorials and source codes
 
 [Credit: Jae-seong, Jeong](https://dribbble.com/shots/3812962-iPhone-X-Todo-Concept) 
 
-### How to burn off
+### Login page UI
 
-![](https://user-images.githubusercontent.com/33988299/66266622-afa97e00-e827-11e9-8021-89c7253d667e.jpg)
+![](https://user-images.githubusercontent.com/33988299/66268154-b5f52580-e83a-11e9-8381-090462e0ba02.png)
 
-[Source code: BurnOff](https://github.com/huextrat/BurnOff)
+[Tutorial: Flutter login page UI](https://www.youtube.com/watch?v=1Pw_E7T9TXI)
 
-[Credit: Anita Stamova](https://www.uplabs.com/posts/burn-off-calories-mobile-app-concept)
+[Source code: Flutter login page UI](https://github.com/devefy/Flutter-Login-Page-UI)
+
+[Credit: Nithinraj Shetty](https://www.uplabs.com/posts/login-99a29cbb-2952-4550-a977-5081bada091d)
 
 ### Everything you need to know about Flutter page route transition
 
