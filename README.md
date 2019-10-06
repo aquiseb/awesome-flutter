@@ -17,9 +17,20 @@ A selection of flutter tutorials and source codes
 
 ![](https://user-images.githubusercontent.com/33988299/66266481-ed0d0c00-e825-11e9-9f28-3236295dbc97.gif)
 
-[Source code: Todo app iPhone X](https://github.com/littlemarc2011/FlutterTodo)
+[Flutter challenge todo app](https://medium.com/@dev.n/flutter-challenge-todo-app-concept-bd36107aa291)
+[Source code: TODOAppUI](https://github.com/deven98/TODOAppUI)
 
-[Credit: Jae-seong, Jeong](https://dribbble.com/shots/3812962-iPhone-X-Todo-Concept)
+[Source code: Todo app iPhone X](https://github.com/littlemarc2011/FlutterTodo) Only the color transitions
+
+[Credit: Jae-seong, Jeong](https://dribbble.com/shots/3812962-iPhone-X-Todo-Concept) Card expansion example
+
+### How to burn off
+
+![](https://user-images.githubusercontent.com/33988299/66266622-afa97e00-e827-11e9-8021-89c7253d667e.jpg)
+
+[Source code: BurnOff](https://github.com/huextrat/BurnOff)
+
+[Credit: Anita Stamova](https://www.uplabs.com/posts/burn-off-calories-mobile-app-concept)
 
 # Articles
 
