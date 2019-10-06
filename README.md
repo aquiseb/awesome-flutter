@@ -33,6 +33,8 @@ A selection of flutter tutorials and source codes
 
 [Tutorial: A Deep Dive Into FloatingActionButton in Flutter](https://proandroiddev.com/a-deep-dive-into-floatingactionbutton-in-flutter-bf95bee11627)
 
+[Tutorial: Create Custom Widgets for Android and iOS](https://youtu.be/H2K104zSJUg)
+
 ### Login page UI
 
 ![](https://user-images.githubusercontent.com/33988299/66268154-b5f52580-e83a-11e9-8381-090462e0ba02.png)
