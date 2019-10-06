@@ -7,7 +7,7 @@ A selection of flutter tutorials and source codes
 
 ![](https://user-images.githubusercontent.com/33988299/66266397-df0abb80-e824-11e9-877c-1358fb3d7e70.gif)
 
-[Source code: Flutter beaches app](https://github.com/lvlzeros/flutter_beaches_app)
+[Source Code: Flutter beaches app](https://github.com/lvlzeros/flutter_beaches_app)
 
 [Tutorial: Choreographing animations across screens](https://uxdesign.cc/level-up-flutter-page-transition-choreographing-animations-across-screens-efb5ea105fca)
 
@@ -19,9 +19,9 @@ A selection of flutter tutorials and source codes
 
 [Flutter challenge todo app](https://medium.com/@dev.n/flutter-challenge-todo-app-concept-bd36107aa291)
 
-[Source code: TODOAppUI](https://github.com/deven98/TODOAppUI) Only the color transitions
+[Source Code: TODOAppUI](https://github.com/deven98/TODOAppUI) Only the color transitions
 
-[Source code: Todo app iPhone X](https://github.com/littlemarc2011/FlutterTodo) Card expansion example
+[Source Code: Todo app iPhone X](https://github.com/littlemarc2011/FlutterTodo) Card expansion example
 
 [Credit: Jae-seong, Jeong](https://dribbble.com/shots/3812962-iPhone-X-Todo-Concept) 
 
@@ -29,10 +29,13 @@ A selection of flutter tutorials and source codes
 
 ### Customize buttons
 
-
 ![](https://user-images.githubusercontent.com/33988299/66271079-36774e80-e85a-11e9-8e7a-bbfbd2be0c62.gif)
 
 [Make a progress button in Flutter](https://medium.com/flutter-community/make-progress-button-in-flutter-d4e2d27bd1d7)
+
+[Video Tutorial: Flutter progress button animation](https://youtu.be/2u_rNrqQaFE)
+
+[Source Code: FlutterProgressButton](https://github.com/IhorKlimov/FlutterProgressButton)
 
 ![](https://user-images.githubusercontent.com/33988299/66268703-3e29f980-e840-11e9-99b8-f7dbf5954795.png)
 
@@ -46,7 +49,7 @@ A selection of flutter tutorials and source codes
 
 [Video Tutorial: Flutter login page UI](https://www.youtube.com/watch?v=1Pw_E7T9TXI)
 
-[Source code: Flutter login page UI](https://github.com/devefy/Flutter-Login-Page-UI)
+[Source Code: Flutter login page UI](https://github.com/devefy/Flutter-Login-Page-UI)
 
 [Credit: Nithinraj Shetty](https://www.uplabs.com/posts/login-99a29cbb-2952-4550-a977-5081bada091d)
 
