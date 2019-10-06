@@ -42,3 +42,4 @@ A selection of flutter tutorials and source codes
 # Articles
 
 - [Scalable app structure in Flutter](https://hackernoon.com/scalable-app-structure-in-flutter-dad61a4bc389)
+- [Mastering hero animations in Flutter](https://medium.com/flutter-community/mastering-hero-animations-in-flutter-bc07e1bea327)
