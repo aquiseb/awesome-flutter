@@ -29,6 +29,11 @@ A selection of flutter tutorials and source codes
 
 ### Customize buttons
 
+
+![](https://user-images.githubusercontent.com/33988299/66271079-36774e80-e85a-11e9-8e7a-bbfbd2be0c62.gif)
+
+[Make a progress button in Flutter](https://medium.com/flutter-community/make-progress-button-in-flutter-d4e2d27bd1d7)
+
 ![](https://user-images.githubusercontent.com/33988299/66268703-3e29f980-e840-11e9-99b8-f7dbf5954795.png)
 
 [Tutorial: A Deep Dive Into FloatingActionButton in Flutter](https://proandroiddev.com/a-deep-dive-into-floatingactionbutton-in-flutter-bf95bee11627)
