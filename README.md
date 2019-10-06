@@ -18,6 +18,7 @@ A selection of flutter tutorials and source codes
 ![](https://user-images.githubusercontent.com/33988299/66266481-ed0d0c00-e825-11e9-9f28-3236295dbc97.gif)
 
 [Flutter challenge todo app](https://medium.com/@dev.n/flutter-challenge-todo-app-concept-bd36107aa291)
+
 [Source code: TODOAppUI](https://github.com/deven98/TODOAppUI)
 
 [Source code: Todo app iPhone X](https://github.com/littlemarc2011/FlutterTodo) Only the color transitions
