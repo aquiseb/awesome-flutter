@@ -35,3 +35,7 @@ A selection of flutter tutorials and source codes
 # Articles
 
 - [Scalable app structure in Flutter](https://hackernoon.com/scalable-app-structure-in-flutter-dad61a4bc389)
+
+![](https://user-images.githubusercontent.com/33988299/66266673-6dcd0780-e828-11e9-8640-1e3feb318033.png)
+
+[Everything you need to know about Flutter page route transition](https://medium.com/flutter-community/everything-you-need-to-know-about-flutter-page-route-transition-9ef5c1b32823)
