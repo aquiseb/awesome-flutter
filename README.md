@@ -1,7 +1,9 @@
 # Awesome Flutter
 A selection of flutter tutorials and source codes
 
-## Choreographing animations across screens
+# Animations
+
+### Choreographing animations across screens
 
 ![](https://user-images.githubusercontent.com/33988299/66266397-df0abb80-e824-11e9-877c-1358fb3d7e70.gif)
 
@@ -18,3 +20,7 @@ A selection of flutter tutorials and source codes
 [Source code: Todo app iPhone X](https://github.com/littlemarc2011/FlutterTodo)
 
 [Credit: Jae-seong, Jeong](https://dribbble.com/shots/3812962-iPhone-X-Todo-Concept)
+
+# Articles
+
+- [Scalable app structure in Flutter](https://hackernoon.com/scalable-app-structure-in-flutter-dad61a4bc389)
